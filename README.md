@@ -42,7 +42,7 @@ Implementation
             }
         }
 
-        scanner.close();
+  scanner.close(); (closing the Scanner)
     }
 // Method to display the menu options
     private static void displayMenu() {
